@@ -1,0 +1,80 @@
+<html>
+	<head>
+		<title> Circuitos Lara </title>
+		<meta http-equiv="Content-Type" content="text/html " charset="UFT-8"> 
+		<link rel="stylesheet" href="css/servicios.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap" rel="stylesheet">
+	</head>
+	
+	<body>
+		<div id="fondo">
+			<div id="parte-izquierda" >
+			</div>
+			
+			<div id="linea-iz" >
+			</div>
+			
+			<div id="linea-der" >
+			</div>
+			
+			<div id="parte-derecha" >
+			</div>
+			
+			<div id="publi">
+			</div>
+			<div id="head">
+				Circuitos Lara
+			</div>
+			<div id="navegador">
+				<a href="index.html"class="enlaces"><div id="menu-inicio">Inicio</div><a>
+				<a href="ofertas.html"class="enlaces"><div id="menu-ofertas">ofertas</div></a>
+				<a href="sobre nosotros.html"class="enlaces"><div id="menu-nosotros"> sobre nosotros</div></a>
+				<a href="circuitos.html"class="enlaces"><div id="menu-circuitos">circuitos</div></a>
+				<a href="seguros.html"class="enlaces"><div id="menu-seguros">seguros</div></a>
+				<a href="servicios.html"class="enlaces"><div id="menu-servicios">servicios</div></a>
+			</div>
+			<div id="logo">
+			</div>
+			<div id="fondo2">
+				<table id="tabla" border="1" align="center">
+					<tr>
+						<td></td>
+						<td>ruedas blandas</td>
+						<td>ruedas medias</td>
+						<td>ruedas duras</td>
+					</tr>
+					<tr>
+						<td>sin plomo 98</td>
+						<td>100€</td>
+						<td>150</td>
+						<td>200</td>
+					</tr>
+					<tr>
+						<td>sin plomo 95</td>
+						<td>10</td>
+						<td>11</td>
+						<td>12</td>
+					</tr>
+					<tr>
+						<td>gasoil A</td>
+						<td>14</td>
+						<td>15</td>
+						<td>16</td>
+					</tr>
+					<tr>
+						<td>diesel +</td>
+						<td>18</td>
+						<td>19</td>
+						<td>20</td>
+					</tr>
+					
+					
+			</div>
+			<div id="pie">
+				<h5 id="letras">Todos los derechos reservados a Circuitos Lara S.A.©</h5>
+			</div>
+		</div>
+	</body>
+</html>

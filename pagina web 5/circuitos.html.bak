@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<title> Circuitos Lara </title>
+		<meta http-equiv="Content-Type" content="text/html " charset="UFT-8"> 
+		<link rel="stylesheet" href="css/circuitos.css"/>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap" rel="stylesheet">
+	</head>
+	
+	<body>
+		<div id="fondo">
+			<div id="parte-izquierda" >
+			</div>
+			
+			<div id="linea-iz" >
+			</div>
+			
+			<div id="linea-der" >
+			</div>
+			
+			<div id="parte-derecha" >
+			</div>
+			
+			<div id="publi">
+			</div>
+			<div id="head">
+				Circuitos Lara
+			</div>
+			<div id="navegador">
+				<a href="index.html"class="enlaces"><div id="menu-inicio">Inicio</div><a>
+				<a href="ofertas.html"class="enlaces"><div id="menu-ofertas">ofertas</div></a>
+				<a href="sobre nosotros.html"class="enlaces"><div id="menu-nosotros"> sobre nosotros</div></a>
+				<a href="circuitos.html"class="enlaces"><div id="menu-circuitos">circuitos</div></a>
+				<a href="seguros.html"class="enlaces"><div id="menu-seguros">seguros</div></a>
+				<a href="servicios.html"class="enlaces"><div id="menu-servicios">servicios</div></a>
+			</div>
+			<div id="logo">
+			</div>
+			
+			<div id="texto">
+				<p> hola </p>
+			</div>
+			<div id="c1">
+				<p> patata </p>
+			</div>
+			<div id="fc2">
+			</div>
+			<div id="c2">
+				<p> pan </p>
+			</div>
+			<div id="c3">
+				<p> chocolate</p>
+			</div>
+			
+			<div id="pie">
+				<h5 id="letras">Todos los derechos reservados a Circuitos Lara S.A.©</h5>
+			</div>
+		</div>
+	</body>
+</html>

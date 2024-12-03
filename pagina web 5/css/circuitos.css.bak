@@ -1,0 +1,260 @@
+#fondo{
+	background-color:#909090;
+	width:800px;
+	height:900px; 
+	position:relative; 
+	top:0px; 
+	margin:0px auto;
+	background-image:url(../imagenes/asfalto.jfif);	
+}
+
+#logo{
+	background-color:#FFFFFF; 
+	background-image:url(../imagenes/logo.png);
+	width:150px;
+	height:100px; 
+	position:absolute;
+	top:20px; 
+	bottom:400px; 
+	left:120px;
+	background-repeat:no-repeat;
+}
+#head{
+	background-color:red; 
+	width:490px; 
+	height:80px; 
+	position:absolute; 
+	top:20px;
+	left:250px;
+	font-family: "Protest Strike", sans-serif;
+	font-size: 50px;
+	text-align:center;
+	padding-top:20px;
+	box-shadow: 18px 12px 2px 1px rgba(79, 74, 77, .2);
+}
+#parte-izquierda{
+	background-color:green; 
+	width:100px; 
+	height:900px; 
+	position:absolute; 
+	top:150px; 
+	left:0px;
+	top:0px;
+	background-image:url(../imagenes/cesped.jfif);
+}
+#parte-derecha{
+	background-color:green; 
+	width:80px; 
+	height:900px; 
+	position:absolute; 
+	top:150px; 
+	left:800px;
+	top:0px;
+	background-image:url(../imagenes/cesped.jfif);
+	
+}
+#linea-iz{
+	background-color:white; 
+	width:10px; 
+	height:900px; 
+	position:absolute; 
+	top:150px; 
+	left:100px;
+	top:0px;
+	background-image:url(../imagenes/linea.jfif);
+	background-size:10px 900px;
+}
+#linea-der{
+	background-image:url(../imagenes/barrera.png); 
+	width:60px; 
+	height:900px; 
+	position:absolute; 
+	top:150px; 
+	left:750px;
+	top:0px;
+}
+#pie{
+	width:900px;
+	height:70px;
+	top:850px;
+	right:5px;
+	left:3px;
+	position:absolute;
+	text-align:center;
+}
+#letras{
+	color:#FFFFFF;
+}
+#publi{
+	background-image:url(../imagenes/publicidad.png);
+	width:57px;
+	height:167px;
+	position:absolute;
+	background-repeat:no-repeat;
+	top:350px;
+	left:30px;
+}
+#navegador{
+	background-color:pink; 
+	width:620px; 
+	height:45px; 
+	position:absolute; 
+	top:120px;
+	left:120px;
+	text-align:center;
+	box-shadow: 12px 12px 2px 1px rgba(79, 74, 77, .2);
+}
+.enlaces{
+	font-family: "Protest Strike", sans-serif;
+	font-size:20px;
+	color:red;
+}
+#menu-inicio{
+	width:103px; 
+	height:35px; 
+	top:0px;
+	left:0px;
+	position:absolute;
+	padding-top:10px;
+	background-color:blue;
+}
+#menu-inicio:hover{
+	background-color:green;
+	cursor:pointer;
+	color:white;
+}
+#menu-ofertas{
+	width:103px; 
+	height:35px; 
+	position:absolute; 
+	top:0px;
+	left:103px;
+	padding-top:10px;
+	background-color:blue;
+}
+#menu-ofertas:hover{
+	background-color:green;
+	cursor:pointer;
+	color:white;
+}
+#menu-nosotros{
+	width:104px; 
+	height:45px; 
+	top:0px;
+	left:206px;
+	position:absolute;
+	background-color:blue;
+}
+#menu-nosotros:hover{
+	background-color:green;
+	cursor:pointer;
+color:white;
+}
+
+#menu-circuitos{
+	width:104px; 
+	height:35px; 
+	top:0px;
+	left:310px;
+	position:absolute;
+	padding-top:10px;
+	background-color:blue;
+}
+#menu-circuitos:hover{
+	background-color:green;
+	cursor:pointer;
+	color:white;
+}
+#menu-seguros{
+	width:103px; 
+	height:35px; 
+	top:0px;
+	left:414px;
+	position:absolute;
+	padding-top:10px;
+	background-color:blue;
+}
+#menu-seguros:hover{
+	background-color:green;
+	cursor:pointer;
+	color:white;
+}
+#menu-servicios{
+	width:103px; 
+	height:35px;  
+	top:0px;
+	left:517px;
+	position:absolute;
+	padding-top:10px;
+	background-color:blue;
+}
+#menu-servicios:hover{
+	background-color:green;
+	cursor:pointer;
+	color:white;
+}
+body{
+	background-image:url(../imagenes/arena.jpg);
+	background-repeat:no-repeat;
+	background-size:1500px 1000px;
+}
+#texto{
+	background-color:white;
+	color:#000000;
+	position:absolute;
+	top:200px;
+	left:150px;
+	width:200px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#c1{
+	background-color:yellow;
+	color:#000000;
+	position:absolute;
+	top:320px;
+	left:150px;
+	width:550px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#fc2{
+	background-color:white;
+	color:#000000;
+	position:absolute;
+	top:430px;
+	left:150px;
+	width:200px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#c2{
+	background-color:grey;
+	color:#000000;
+	position:absolute;
+	top:550px;
+	left:150px;
+	width:550px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#fc3{
+	background-color:white;
+	color:#000000;
+	position:absolute;
+	top:660px;
+	left:150px;
+	width:200px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#c3{
+	background-color:brown;
+	color:#000000;
+	position:absolute;
+	top:780px;
+	left:150px;
+	width:550px;
+	height:100px;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
